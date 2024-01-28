@@ -1,4 +1,7 @@
 # Automated-Object-Handling
+
+The objective is to perform pick and place tasks in Gazebo, using MoveIt!
+to move the robot and PCL to detect object positions and colours.
 Pick and Place, Object Detection and Localization are performed with [Franka Emika Panda](https://franka.de/).
 
 ## Pre-Requisites
