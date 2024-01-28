@@ -1,0 +1,7 @@
+labs/style_tutorial
+/home/alston/Automated-Object-Handling/devel/.private/style_tutorial/cmake.lock /home/alston/Automated-Object-Handling/devel/./cmake.lock
+/home/alston/Automated-Object-Handling/devel/.private/style_tutorial/share/style_tutorial/cmake/style_tutorialConfig-version.cmake /home/alston/Automated-Object-Handling/devel/share/style_tutorial/cmake/style_tutorialConfig-version.cmake
+/home/alston/Automated-Object-Handling/devel/.private/style_tutorial/share/style_tutorial/cmake/style_tutorialConfig.cmake /home/alston/Automated-Object-Handling/devel/share/style_tutorial/cmake/style_tutorialConfig.cmake
+/home/alston/Automated-Object-Handling/devel/.private/style_tutorial/lib/libstyle_tutorial_lib.so /home/alston/Automated-Object-Handling/devel/lib/libstyle_tutorial_lib.so
+/home/alston/Automated-Object-Handling/devel/.private/style_tutorial/lib/pkgconfig/style_tutorial.pc /home/alston/Automated-Object-Handling/devel/lib/pkgconfig/style_tutorial.pc
+/home/alston/Automated-Object-Handling/devel/.private/style_tutorial/lib/style_tutorial/style_tutorial_node /home/alston/Automated-Object-Handling/devel/lib/style_tutorial/style_tutorial_node

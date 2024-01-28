@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -O3 -DNDEBUG   -shared -Wl,-soname,libcw1_team_10_cw1_class_lib.so -o /home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/lib/libcw1_team_10_cw1_class_lib.so CMakeFiles/cw1_team_10_cw1_class_lib.dir/src/cw1_class.cpp.o 

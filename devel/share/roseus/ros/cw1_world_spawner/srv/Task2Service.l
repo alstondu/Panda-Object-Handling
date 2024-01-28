@@ -1,0 +1,1 @@
+/home/alston/Automated-Object-Handling/devel/.private/cw1_world_spawner/share/roseus/ros/cw1_world_spawner/srv/Task2Service.l

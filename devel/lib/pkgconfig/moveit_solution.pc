@@ -1,0 +1,1 @@
+/home/alston/Automated-Object-Handling/devel/.private/moveit_solution/lib/pkgconfig/moveit_solution.pc

@@ -1,0 +1,16 @@
+Symlinking /home/alston/Automated-Object-Handling/devel/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig-version.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/libobj_rec_tutorial_lib.so
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/obj_rec_tutorial/correspondence_grouping
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/pkgconfig/obj_rec_tutorial.pc
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/obj_rec_tutorial/cmake.lock, /home/alston/comp0129_s24_labs/devel/./cmake.lock)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/obj_rec_tutorial/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig-version.cmake, /home/alston/comp0129_s24_labs/devel/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig-version.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/obj_rec_tutorial/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig.cmake, /home/alston/comp0129_s24_labs/devel/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/obj_rec_tutorial/lib/libobj_rec_tutorial_lib.so, /home/alston/comp0129_s24_labs/devel/lib/libobj_rec_tutorial_lib.so)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/obj_rec_tutorial/lib/obj_rec_tutorial/correspondence_grouping, /home/alston/comp0129_s24_labs/devel/lib/obj_rec_tutorial/correspondence_grouping)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/obj_rec_tutorial/lib/pkgconfig/obj_rec_tutorial.pc, /home/alston/comp0129_s24_labs/devel/lib/pkgconfig/obj_rec_tutorial.pc)
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig-version.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/obj_rec_tutorial/cmake/obj_rec_tutorialConfig.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/libobj_rec_tutorial_lib.so
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/obj_rec_tutorial/correspondence_grouping
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/pkgconfig/obj_rec_tutorial.pc

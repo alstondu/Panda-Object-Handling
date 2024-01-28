@@ -1,0 +1,10 @@
+Symlinking /home/alston/Automated-Object-Handling/devel/share/panda_description/cmake/panda_descriptionConfig-version.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/share/panda_description/cmake/panda_descriptionConfig.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/pkgconfig/panda_description.pc
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/panda_description/cmake.lock, /home/alston/comp0129_s24_labs/devel/./cmake.lock)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/panda_description/share/panda_description/cmake/panda_descriptionConfig-version.cmake, /home/alston/comp0129_s24_labs/devel/share/panda_description/cmake/panda_descriptionConfig-version.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/panda_description/share/panda_description/cmake/panda_descriptionConfig.cmake, /home/alston/comp0129_s24_labs/devel/share/panda_description/cmake/panda_descriptionConfig.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/panda_description/lib/pkgconfig/panda_description.pc, /home/alston/comp0129_s24_labs/devel/lib/pkgconfig/panda_description.pc)
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/panda_description/cmake/panda_descriptionConfig-version.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/panda_description/cmake/panda_descriptionConfig.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/pkgconfig/panda_description.pc

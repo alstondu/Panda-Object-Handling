@@ -1,0 +1,7 @@
+set(cw1_world_spawner_SETUP_PY_SETUP_MODULE "distutils.core")
+set(cw1_world_spawner_SETUP_PY_VERSION "0.0.0")
+set(cw1_world_spawner_SETUP_PY_SCRIPTS "")
+set(cw1_world_spawner_SETUP_PY_PACKAGES "coursework_world_spawner_lib")
+set(cw1_world_spawner_SETUP_PY_PACKAGE_DIRS "src/coursework_world_spawner_lib")
+set(cw1_world_spawner_SETUP_PY_MODULES "")
+set(cw1_world_spawner_SETUP_PY_MODULE_DIRS "")

@@ -1,0 +1,16 @@
+Symlinking /home/alston/Automated-Object-Handling/devel/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig-version.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/librealsense_gazebo_plugin.so
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/realsense_gazebo_plugin/test_realsense_streams
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/pkgconfig/realsense_gazebo_plugin.pc
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/realsense_gazebo_plugin/cmake.lock, /home/alston/comp0129_s24_labs/devel/./cmake.lock)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/realsense_gazebo_plugin/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig.cmake, /home/alston/comp0129_s24_labs/devel/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/realsense_gazebo_plugin/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig-version.cmake, /home/alston/comp0129_s24_labs/devel/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig-version.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/realsense_gazebo_plugin/lib/librealsense_gazebo_plugin.so, /home/alston/comp0129_s24_labs/devel/lib/librealsense_gazebo_plugin.so)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/realsense_gazebo_plugin/lib/realsense_gazebo_plugin/test_realsense_streams, /home/alston/comp0129_s24_labs/devel/lib/realsense_gazebo_plugin/test_realsense_streams)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/realsense_gazebo_plugin/lib/pkgconfig/realsense_gazebo_plugin.pc, /home/alston/comp0129_s24_labs/devel/lib/pkgconfig/realsense_gazebo_plugin.pc)
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/realsense_gazebo_plugin/cmake/realsense_gazebo_pluginConfig-version.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/librealsense_gazebo_plugin.so
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/realsense_gazebo_plugin/test_realsense_streams
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/pkgconfig/realsense_gazebo_plugin.pc

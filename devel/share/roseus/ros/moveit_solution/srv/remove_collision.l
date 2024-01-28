@@ -1,0 +1,1 @@
+/home/alston/Automated-Object-Handling/devel/.private/moveit_solution/share/roseus/ros/moveit_solution/srv/remove_collision.l

@@ -1,0 +1,35 @@
+Symlinking /home/alston/Automated-Object-Handling/devel/./cmake.lock
+Symlinking /home/alston/Automated-Object-Handling/devel/./env.sh
+Symlinking /home/alston/Automated-Object-Handling/devel/./local_setup.zsh
+Symlinking /home/alston/Automated-Object-Handling/devel/./_setup_util.py
+Symlinking /home/alston/Automated-Object-Handling/devel/./setup.bash
+Symlinking /home/alston/Automated-Object-Handling/devel/./local_setup.sh
+Symlinking /home/alston/Automated-Object-Handling/devel/./local_setup.bash
+Symlinking /home/alston/Automated-Object-Handling/devel/./setup.zsh
+Symlinking /home/alston/Automated-Object-Handling/devel/./setup.sh
+Symlinking /home/alston/Automated-Object-Handling/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/catkin_tools_prebuild/cmake.lock, /home/alston/comp0129_s24_labs/devel/./cmake.lock)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/catkin_tools_prebuild/env.sh, /home/alston/comp0129_s24_labs/devel/./env.sh)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/catkin_tools_prebuild/local_setup.zsh, /home/alston/comp0129_s24_labs/devel/./local_setup.zsh)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/catkin_tools_prebuild/_setup_util.py, /home/alston/comp0129_s24_labs/devel/./_setup_util.py)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/catkin_tools_prebuild/setup.bash, /home/alston/comp0129_s24_labs/devel/./setup.bash)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/catkin_tools_prebuild/local_setup.sh, /home/alston/comp0129_s24_labs/devel/./local_setup.sh)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/catkin_tools_prebuild/local_setup.bash, /home/alston/comp0129_s24_labs/devel/./local_setup.bash)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/catkin_tools_prebuild/setup.zsh, /home/alston/comp0129_s24_labs/devel/./setup.zsh)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/catkin_tools_prebuild/setup.sh, /home/alston/comp0129_s24_labs/devel/./setup.sh)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake, /home/alston/comp0129_s24_labs/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake, /home/alston/comp0129_s24_labs/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/catkin_tools_prebuild/lib/pkgconfig/catkin_tools_prebuild.pc, /home/alston/comp0129_s24_labs/devel/lib/pkgconfig/catkin_tools_prebuild.pc)
+Unlinking: /home/alston/comp0129_s24_labs/devel/./env.sh
+Unlinking: /home/alston/comp0129_s24_labs/devel/./local_setup.zsh
+Unlinking: /home/alston/comp0129_s24_labs/devel/./_setup_util.py
+Unlinking: /home/alston/comp0129_s24_labs/devel/./setup.bash
+Unlinking: /home/alston/comp0129_s24_labs/devel/./local_setup.sh
+Unlinking: /home/alston/comp0129_s24_labs/devel/./local_setup.bash
+Unlinking: /home/alston/comp0129_s24_labs/devel/./setup.zsh
+Unlinking: /home/alston/comp0129_s24_labs/devel/./setup.sh
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/pkgconfig/catkin_tools_prebuild.pc

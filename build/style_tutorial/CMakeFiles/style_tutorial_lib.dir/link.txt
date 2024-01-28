@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++14   -O3 -DNDEBUG   -shared -Wl,-soname,libstyle_tutorial_lib.so -o /home/alston/Automated-Object-Handling/devel/.private/style_tutorial/lib/libstyle_tutorial_lib.so CMakeFiles/style_tutorial_lib.dir/src/style_tutorial.cpp.o 

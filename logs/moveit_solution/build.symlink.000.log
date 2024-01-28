@@ -1,0 +1,163 @@
+Symlinking /home/alston/Automated-Object-Handling/devel/share/gennodejs/ros/moveit_solution/_index.js
+Symlinking /home/alston/Automated-Object-Handling/devel/share/gennodejs/ros/moveit_solution/srv/_index.js
+Symlinking /home/alston/Automated-Object-Handling/devel/share/gennodejs/ros/moveit_solution/srv/remove_collision.js
+Symlinking /home/alston/Automated-Object-Handling/devel/share/gennodejs/ros/moveit_solution/srv/set_arm.js
+Symlinking /home/alston/Automated-Object-Handling/devel/share/gennodejs/ros/moveit_solution/srv/set_gripper.js
+Symlinking /home/alston/Automated-Object-Handling/devel/share/gennodejs/ros/moveit_solution/srv/pick.js
+Symlinking /home/alston/Automated-Object-Handling/devel/share/gennodejs/ros/moveit_solution/srv/add_collision.js
+Symlinking /home/alston/Automated-Object-Handling/devel/share/moveit_solution/cmake/moveit_solution-msg-paths.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/share/moveit_solution/cmake/moveit_solution-msg-extras.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/share/moveit_solution/cmake/moveit_solutionConfig.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/share/moveit_solution/cmake/moveit_solutionConfig-version.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/share/roseus/ros/moveit_solution/manifest.l
+Symlinking /home/alston/Automated-Object-Handling/devel/share/roseus/ros/moveit_solution/srv/pick.l
+Symlinking /home/alston/Automated-Object-Handling/devel/share/roseus/ros/moveit_solution/srv/set_gripper.l
+Symlinking /home/alston/Automated-Object-Handling/devel/share/roseus/ros/moveit_solution/srv/remove_collision.l
+Symlinking /home/alston/Automated-Object-Handling/devel/share/roseus/ros/moveit_solution/srv/set_arm.l
+Symlinking /home/alston/Automated-Object-Handling/devel/share/roseus/ros/moveit_solution/srv/add_collision.l
+Symlinking /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/moveit_solution/srv/_package_add_collision.lisp
+Symlinking /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/moveit_solution/srv/_package_remove_collision.lisp
+Symlinking /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/moveit_solution/srv/add_collision.lisp
+Symlinking /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/moveit_solution/srv/remove_collision.lisp
+Symlinking /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/moveit_solution/srv/_package.lisp
+Symlinking /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/moveit_solution/srv/set_gripper.lisp
+Symlinking /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/moveit_solution/srv/_package_set_arm.lisp
+Symlinking /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/moveit_solution/srv/moveit_solution-srv.asd
+Symlinking /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/moveit_solution/srv/_package_set_gripper.lisp
+Symlinking /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/moveit_solution/srv/pick.lisp
+Symlinking /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/moveit_solution/srv/set_arm.lisp
+Symlinking /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/moveit_solution/srv/_package_pick.lisp
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/libSrvClass_lib_solution.so
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/pkgconfig/moveit_solution.pc
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/python3/dist-packages/moveit_solution/__init__.py
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/python3/dist-packages/moveit_solution/srv/_add_collision.py
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/python3/dist-packages/moveit_solution/srv/__init__.py
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/python3/dist-packages/moveit_solution/srv/_pick.py
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/python3/dist-packages/moveit_solution/srv/_set_gripper.py
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/python3/dist-packages/moveit_solution/srv/_remove_collision.py
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/python3/dist-packages/moveit_solution/srv/_set_arm.py
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/moveit_solution/moveit_solution_node
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/add_collision.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/remove_collision.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/add_collisionRequest.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/remove_collisionResponse.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/set_gripper.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/set_armRequest.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/pick.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/set_arm.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/set_gripperRequest.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/set_armResponse.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/remove_collisionRequest.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/pickRequest.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/set_gripperResponse.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/pickResponse.h
+Symlinking /home/alston/Automated-Object-Handling/devel/include/moveit_solution/add_collisionResponse.h
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/cmake.lock, /home/alston/comp0129_s24_labs/devel/./cmake.lock)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/gennodejs/ros/moveit_solution/_index.js, /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/_index.js)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/gennodejs/ros/moveit_solution/srv/_index.js, /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/srv/_index.js)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/gennodejs/ros/moveit_solution/srv/remove_collision.js, /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/srv/remove_collision.js)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/gennodejs/ros/moveit_solution/srv/set_arm.js, /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/srv/set_arm.js)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/gennodejs/ros/moveit_solution/srv/set_gripper.js, /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/srv/set_gripper.js)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/gennodejs/ros/moveit_solution/srv/pick.js, /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/srv/pick.js)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/gennodejs/ros/moveit_solution/srv/add_collision.js, /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/srv/add_collision.js)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/moveit_solution/cmake/moveit_solution-msg-paths.cmake, /home/alston/comp0129_s24_labs/devel/share/moveit_solution/cmake/moveit_solution-msg-paths.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/moveit_solution/cmake/moveit_solution-msg-extras.cmake, /home/alston/comp0129_s24_labs/devel/share/moveit_solution/cmake/moveit_solution-msg-extras.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/moveit_solution/cmake/moveit_solutionConfig.cmake, /home/alston/comp0129_s24_labs/devel/share/moveit_solution/cmake/moveit_solutionConfig.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/moveit_solution/cmake/moveit_solutionConfig-version.cmake, /home/alston/comp0129_s24_labs/devel/share/moveit_solution/cmake/moveit_solutionConfig-version.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/roseus/ros/moveit_solution/manifest.l, /home/alston/comp0129_s24_labs/devel/share/roseus/ros/moveit_solution/manifest.l)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/roseus/ros/moveit_solution/srv/pick.l, /home/alston/comp0129_s24_labs/devel/share/roseus/ros/moveit_solution/srv/pick.l)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/roseus/ros/moveit_solution/srv/set_gripper.l, /home/alston/comp0129_s24_labs/devel/share/roseus/ros/moveit_solution/srv/set_gripper.l)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/roseus/ros/moveit_solution/srv/remove_collision.l, /home/alston/comp0129_s24_labs/devel/share/roseus/ros/moveit_solution/srv/remove_collision.l)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/roseus/ros/moveit_solution/srv/set_arm.l, /home/alston/comp0129_s24_labs/devel/share/roseus/ros/moveit_solution/srv/set_arm.l)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/roseus/ros/moveit_solution/srv/add_collision.l, /home/alston/comp0129_s24_labs/devel/share/roseus/ros/moveit_solution/srv/add_collision.l)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/common-lisp/ros/moveit_solution/srv/_package_add_collision.lisp, /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/_package_add_collision.lisp)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/common-lisp/ros/moveit_solution/srv/_package_remove_collision.lisp, /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/_package_remove_collision.lisp)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/common-lisp/ros/moveit_solution/srv/add_collision.lisp, /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/add_collision.lisp)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/common-lisp/ros/moveit_solution/srv/remove_collision.lisp, /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/remove_collision.lisp)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/common-lisp/ros/moveit_solution/srv/_package.lisp, /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/_package.lisp)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/common-lisp/ros/moveit_solution/srv/set_gripper.lisp, /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/set_gripper.lisp)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/common-lisp/ros/moveit_solution/srv/_package_set_arm.lisp, /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/_package_set_arm.lisp)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/common-lisp/ros/moveit_solution/srv/moveit_solution-srv.asd, /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/moveit_solution-srv.asd)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/common-lisp/ros/moveit_solution/srv/_package_set_gripper.lisp, /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/_package_set_gripper.lisp)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/common-lisp/ros/moveit_solution/srv/pick.lisp, /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/pick.lisp)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/common-lisp/ros/moveit_solution/srv/set_arm.lisp, /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/set_arm.lisp)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/share/common-lisp/ros/moveit_solution/srv/_package_pick.lisp, /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/_package_pick.lisp)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/lib/libSrvClass_lib_solution.so, /home/alston/comp0129_s24_labs/devel/lib/libSrvClass_lib_solution.so)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/lib/pkgconfig/moveit_solution.pc, /home/alston/comp0129_s24_labs/devel/lib/pkgconfig/moveit_solution.pc)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/lib/python3/dist-packages/moveit_solution/__init__.py, /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/__init__.py)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/lib/python3/dist-packages/moveit_solution/srv/_add_collision.py, /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/srv/_add_collision.py)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/lib/python3/dist-packages/moveit_solution/srv/__init__.py, /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/srv/__init__.py)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/lib/python3/dist-packages/moveit_solution/srv/_pick.py, /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/srv/_pick.py)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/lib/python3/dist-packages/moveit_solution/srv/_set_gripper.py, /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/srv/_set_gripper.py)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/lib/python3/dist-packages/moveit_solution/srv/_remove_collision.py, /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/srv/_remove_collision.py)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/lib/python3/dist-packages/moveit_solution/srv/_set_arm.py, /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/srv/_set_arm.py)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/lib/moveit_solution/moveit_solution_node, /home/alston/comp0129_s24_labs/devel/lib/moveit_solution/moveit_solution_node)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/add_collision.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/add_collision.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/remove_collision.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/remove_collision.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/add_collisionRequest.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/add_collisionRequest.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/remove_collisionResponse.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/remove_collisionResponse.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/set_gripper.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/set_gripper.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/set_armRequest.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/set_armRequest.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/pick.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/pick.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/set_arm.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/set_arm.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/set_gripperRequest.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/set_gripperRequest.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/set_armResponse.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/set_armResponse.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/remove_collisionRequest.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/remove_collisionRequest.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/pickRequest.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/pickRequest.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/set_gripperResponse.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/set_gripperResponse.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/pickResponse.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/pickResponse.h)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/moveit_solution/include/moveit_solution/add_collisionResponse.h, /home/alston/comp0129_s24_labs/devel/include/moveit_solution/add_collisionResponse.h)
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/_index.js
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/srv/_index.js
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/srv/remove_collision.js
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/srv/set_arm.js
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/srv/set_gripper.js
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/srv/pick.js
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/gennodejs/ros/moveit_solution/srv/add_collision.js
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/moveit_solution/cmake/moveit_solution-msg-paths.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/moveit_solution/cmake/moveit_solution-msg-extras.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/moveit_solution/cmake/moveit_solutionConfig.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/moveit_solution/cmake/moveit_solutionConfig-version.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/roseus/ros/moveit_solution/manifest.l
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/roseus/ros/moveit_solution/srv/pick.l
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/roseus/ros/moveit_solution/srv/set_gripper.l
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/roseus/ros/moveit_solution/srv/remove_collision.l
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/roseus/ros/moveit_solution/srv/set_arm.l
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/roseus/ros/moveit_solution/srv/add_collision.l
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/_package_add_collision.lisp
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/_package_remove_collision.lisp
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/add_collision.lisp
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/remove_collision.lisp
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/_package.lisp
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/set_gripper.lisp
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/_package_set_arm.lisp
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/moveit_solution-srv.asd
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/_package_set_gripper.lisp
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/pick.lisp
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/set_arm.lisp
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/common-lisp/ros/moveit_solution/srv/_package_pick.lisp
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/libSrvClass_lib_solution.so
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/pkgconfig/moveit_solution.pc
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/__init__.py
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/srv/_add_collision.py
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/srv/__init__.py
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/srv/_pick.py
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/srv/_set_gripper.py
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/srv/_remove_collision.py
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/python3/dist-packages/moveit_solution/srv/_set_arm.py
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/moveit_solution/moveit_solution_node
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/add_collision.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/remove_collision.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/add_collisionRequest.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/remove_collisionResponse.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/set_gripper.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/set_armRequest.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/pick.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/set_arm.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/set_gripperRequest.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/set_armResponse.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/remove_collisionRequest.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/pickRequest.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/set_gripperResponse.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/pickResponse.h
+Unlinking: /home/alston/comp0129_s24_labs/devel/include/moveit_solution/add_collisionResponse.h

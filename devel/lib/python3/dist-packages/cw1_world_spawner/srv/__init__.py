@@ -1,0 +1,1 @@
+/home/alston/Automated-Object-Handling/devel/.private/cw1_world_spawner/lib/python3/dist-packages/cw1_world_spawner/srv/__init__.py

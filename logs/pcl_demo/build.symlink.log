@@ -1,0 +1,16 @@
+Symlinking /home/alston/Automated-Object-Handling/devel/share/pcl_demo/cmake/pcl_demoConfig-version.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/share/pcl_demo/cmake/pcl_demoConfig.cmake
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/libpcl_demo_lib.so
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/pkgconfig/pcl_demo.pc
+Symlinking /home/alston/Automated-Object-Handling/devel/lib/pcl_demo/pcl_demo_node
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/pcl_demo/cmake.lock, /home/alston/comp0129_s24_labs/devel/./cmake.lock)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/pcl_demo/share/pcl_demo/cmake/pcl_demoConfig-version.cmake, /home/alston/comp0129_s24_labs/devel/share/pcl_demo/cmake/pcl_demoConfig-version.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/pcl_demo/share/pcl_demo/cmake/pcl_demoConfig.cmake, /home/alston/comp0129_s24_labs/devel/share/pcl_demo/cmake/pcl_demoConfig.cmake)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/pcl_demo/lib/libpcl_demo_lib.so, /home/alston/comp0129_s24_labs/devel/lib/libpcl_demo_lib.so)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/pcl_demo/lib/pkgconfig/pcl_demo.pc, /home/alston/comp0129_s24_labs/devel/lib/pkgconfig/pcl_demo.pc)
+Cleaning: (/home/alston/comp0129_s24_labs/devel/.private/pcl_demo/lib/pcl_demo/pcl_demo_node, /home/alston/comp0129_s24_labs/devel/lib/pcl_demo/pcl_demo_node)
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/pcl_demo/cmake/pcl_demoConfig-version.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/share/pcl_demo/cmake/pcl_demoConfig.cmake
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/libpcl_demo_lib.so
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/pkgconfig/pcl_demo.pc
+Unlinking: /home/alston/comp0129_s24_labs/devel/lib/pcl_demo/pcl_demo_node

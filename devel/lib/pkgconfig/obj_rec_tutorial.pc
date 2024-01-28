@@ -1,0 +1,1 @@
+/home/alston/Automated-Object-Handling/devel/.private/obj_rec_tutorial/lib/pkgconfig/obj_rec_tutorial.pc

@@ -1,0 +1,24 @@
+cw1_team_10
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/cmake.lock /home/alston/Automated-Object-Handling/devel/./cmake.lock
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/gennodejs/ros/cw1_team_10/_index.js /home/alston/Automated-Object-Handling/devel/share/gennodejs/ros/cw1_team_10/_index.js
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/gennodejs/ros/cw1_team_10/srv/_index.js /home/alston/Automated-Object-Handling/devel/share/gennodejs/ros/cw1_team_10/srv/_index.js
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/gennodejs/ros/cw1_team_10/srv/example.js /home/alston/Automated-Object-Handling/devel/share/gennodejs/ros/cw1_team_10/srv/example.js
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/roseus/ros/cw1_team_10/manifest.l /home/alston/Automated-Object-Handling/devel/share/roseus/ros/cw1_team_10/manifest.l
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/roseus/ros/cw1_team_10/srv/example.l /home/alston/Automated-Object-Handling/devel/share/roseus/ros/cw1_team_10/srv/example.l
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/cw1_team_10/cmake/cw1_team_10-msg-extras.cmake /home/alston/Automated-Object-Handling/devel/share/cw1_team_10/cmake/cw1_team_10-msg-extras.cmake
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/cw1_team_10/cmake/cw1_team_10Config-version.cmake /home/alston/Automated-Object-Handling/devel/share/cw1_team_10/cmake/cw1_team_10Config-version.cmake
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/cw1_team_10/cmake/cw1_team_10Config.cmake /home/alston/Automated-Object-Handling/devel/share/cw1_team_10/cmake/cw1_team_10Config.cmake
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/cw1_team_10/cmake/cw1_team_10-msg-paths.cmake /home/alston/Automated-Object-Handling/devel/share/cw1_team_10/cmake/cw1_team_10-msg-paths.cmake
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/common-lisp/ros/cw1_team_10/srv/cw1_team_10-srv.asd /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/cw1_team_10/srv/cw1_team_10-srv.asd
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/common-lisp/ros/cw1_team_10/srv/_package.lisp /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/cw1_team_10/srv/_package.lisp
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/common-lisp/ros/cw1_team_10/srv/example.lisp /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/cw1_team_10/srv/example.lisp
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/common-lisp/ros/cw1_team_10/srv/_package_example.lisp /home/alston/Automated-Object-Handling/devel/share/common-lisp/ros/cw1_team_10/srv/_package_example.lisp
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/lib/libcw1_team_10_cw1_class_lib.so /home/alston/Automated-Object-Handling/devel/lib/libcw1_team_10_cw1_class_lib.so
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/lib/pkgconfig/cw1_team_10.pc /home/alston/Automated-Object-Handling/devel/lib/pkgconfig/cw1_team_10.pc
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/lib/python3/dist-packages/cw1_team_10/__init__.py /home/alston/Automated-Object-Handling/devel/lib/python3/dist-packages/cw1_team_10/__init__.py
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/lib/python3/dist-packages/cw1_team_10/srv/_example.py /home/alston/Automated-Object-Handling/devel/lib/python3/dist-packages/cw1_team_10/srv/_example.py
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/lib/python3/dist-packages/cw1_team_10/srv/__init__.py /home/alston/Automated-Object-Handling/devel/lib/python3/dist-packages/cw1_team_10/srv/__init__.py
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/lib/cw1_team_10/cw1_solution_node /home/alston/Automated-Object-Handling/devel/lib/cw1_team_10/cw1_solution_node
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/include/cw1_team_10/exampleResponse.h /home/alston/Automated-Object-Handling/devel/include/cw1_team_10/exampleResponse.h
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/include/cw1_team_10/exampleRequest.h /home/alston/Automated-Object-Handling/devel/include/cw1_team_10/exampleRequest.h
+/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/include/cw1_team_10/example.h /home/alston/Automated-Object-Handling/devel/include/cw1_team_10/example.h

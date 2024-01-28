@@ -1,0 +1,2 @@
+set(moveit_solution_MESSAGE_FILES "")
+set(moveit_solution_SERVICE_FILES "/home/alston/Automated-Object-Handling/src/labs/moveit_solution/srv/set_arm.srv;/home/alston/Automated-Object-Handling/src/labs/moveit_solution/srv/set_gripper.srv;/home/alston/Automated-Object-Handling/src/labs/moveit_solution/srv/add_collision.srv;/home/alston/Automated-Object-Handling/src/labs/moveit_solution/srv/remove_collision.srv;/home/alston/Automated-Object-Handling/src/labs/moveit_solution/srv/pick.srv")

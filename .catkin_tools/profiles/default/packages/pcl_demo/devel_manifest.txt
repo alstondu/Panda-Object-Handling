@@ -1,0 +1,7 @@
+labs/pcl_demo
+/home/alston/Automated-Object-Handling/devel/.private/pcl_demo/cmake.lock /home/alston/Automated-Object-Handling/devel/./cmake.lock
+/home/alston/Automated-Object-Handling/devel/.private/pcl_demo/share/pcl_demo/cmake/pcl_demoConfig-version.cmake /home/alston/Automated-Object-Handling/devel/share/pcl_demo/cmake/pcl_demoConfig-version.cmake
+/home/alston/Automated-Object-Handling/devel/.private/pcl_demo/share/pcl_demo/cmake/pcl_demoConfig.cmake /home/alston/Automated-Object-Handling/devel/share/pcl_demo/cmake/pcl_demoConfig.cmake
+/home/alston/Automated-Object-Handling/devel/.private/pcl_demo/lib/libpcl_demo_lib.so /home/alston/Automated-Object-Handling/devel/lib/libpcl_demo_lib.so
+/home/alston/Automated-Object-Handling/devel/.private/pcl_demo/lib/pkgconfig/pcl_demo.pc /home/alston/Automated-Object-Handling/devel/lib/pkgconfig/pcl_demo.pc
+/home/alston/Automated-Object-Handling/devel/.private/pcl_demo/lib/pcl_demo/pcl_demo_node /home/alston/Automated-Object-Handling/devel/lib/pcl_demo/pcl_demo_node

@@ -1,0 +1,2 @@
+set(moveit_tutorial_MESSAGE_FILES "")
+set(moveit_tutorial_SERVICE_FILES "srv/set_arm.srv;srv/set_gripper.srv;srv/add_collision.srv;srv/remove_collision.srv;srv/pick.srv")

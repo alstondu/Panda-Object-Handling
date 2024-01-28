@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target obj_rec_tutorial_lib[0m
+[35m[1mScanning dependencies of target correspondence_grouping[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/obj_rec_tutorial_lib.dir/src/obj_rec_tutorial.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/correspondence_grouping.dir/src/correspondence_grouping.cpp.o[0m
+[ 75%] [32m[1mLinking CXX shared library /home/alston/Automated-Object-Handling/devel/.private/obj_rec_tutorial/lib/libobj_rec_tutorial_lib.so[0m
+[ 75%] Built target obj_rec_tutorial_lib
+[100%] [32m[1mLinking CXX executable /home/alston/Automated-Object-Handling/devel/.private/obj_rec_tutorial/lib/obj_rec_tutorial/correspondence_grouping[0m
+[100%] Built target correspondence_grouping

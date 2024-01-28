@@ -1,0 +1,1 @@
+/home/alston/Automated-Object-Handling/devel/.private/moveit_solution/share/gennodejs/ros/moveit_solution/srv/set_arm.js

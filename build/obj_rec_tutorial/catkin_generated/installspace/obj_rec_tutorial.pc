@@ -1,0 +1,8 @@
+prefix=/home/alston/Automated-Object-Handling/install
+
+Name: obj_rec_tutorial
+Description: Description of obj_rec_tutorial
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs geometry_msgs moveit_ros_planning moveit_ros_planning_interface tf tf2 tf2_ros

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -O3 -DNDEBUG   -shared -Wl,-soname,libpcl_demo_lib.so -o /home/alston/Automated-Object-Handling/devel/.private/pcl_demo/lib/libpcl_demo_lib.so CMakeFiles/pcl_demo_lib.dir/src/pcl_demo.cpp.o 
