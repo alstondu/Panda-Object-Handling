@@ -2,17 +2,13 @@
 
 The objective is to perform pick and place tasks in Gazebo, using MoveIt!
 to move the robot and PCL to detect object positions and colours.
+
 Pick and Place, Object Detection and Localization are performed with [Franka Emika Panda](https://franka.de/).
 
 ## Pre-Requisites
-```bash
-> sudo apt install ros-noetic-franka-ros ros-noetic-libfranka
-```
-Gazebo physics simluator is also needed (http://gazebosim.org/). This can be installed and then run with:
-```bash
-> curl -sSL http://get.gazebosim.org | sh
-> gazebo
-```
++ ROS Noetic
++ MoveIt
++ Point Cloud Library
 
 ## Installation
 ```bash
@@ -21,8 +17,8 @@ Gazebo physics simluator is also needed (http://gazebosim.org/). This can be ins
 > catkin clean
 > catkin build
 ```
-
-## License
+---
+## 📄 License
 LICENSE: MIT.  See [LICENSE.txt](LICENSE.txt)
 
 DISCLAIMER:
