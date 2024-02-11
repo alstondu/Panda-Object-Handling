@@ -1,7 +1,0 @@
-labs/pcl_tutorial
-/home/alston/Automated-Object-Handling/devel/.private/pcl_tutorial/cmake.lock /home/alston/Automated-Object-Handling/devel/./cmake.lock
-/home/alston/Automated-Object-Handling/devel/.private/pcl_tutorial/share/pcl_tutorial/cmake/pcl_tutorialConfig-version.cmake /home/alston/Automated-Object-Handling/devel/share/pcl_tutorial/cmake/pcl_tutorialConfig-version.cmake
-/home/alston/Automated-Object-Handling/devel/.private/pcl_tutorial/share/pcl_tutorial/cmake/pcl_tutorialConfig.cmake /home/alston/Automated-Object-Handling/devel/share/pcl_tutorial/cmake/pcl_tutorialConfig.cmake
-/home/alston/Automated-Object-Handling/devel/.private/pcl_tutorial/lib/libpcl_tutorial_lib.so /home/alston/Automated-Object-Handling/devel/lib/libpcl_tutorial_lib.so
-/home/alston/Automated-Object-Handling/devel/.private/pcl_tutorial/lib/pcl_tutorial/pcl_tutorial_node /home/alston/Automated-Object-Handling/devel/lib/pcl_tutorial/pcl_tutorial_node
-/home/alston/Automated-Object-Handling/devel/.private/pcl_tutorial/lib/pkgconfig/pcl_tutorial.pc /home/alston/Automated-Object-Handling/devel/lib/pkgconfig/pcl_tutorial.pc
