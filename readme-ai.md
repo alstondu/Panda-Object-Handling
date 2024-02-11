@@ -1,11 +1,10 @@
-<div align="center">
-<h1 align="center">
+<div align="left">
+<h1 align="left">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
 <br>PANDA-OBJECT-HANDLING</h1>
-<h3>◦ HTTPStatus Exception: 401</h3>
-<h3>◦ Developed with the software and tools below.</h3>
+<h3>Developed with the software and tools below.</h3>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=flat-square&logo=GNU-Bash&logoColor=white" alt="GNU%20Bash" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" />
@@ -16,10 +15,10 @@
 </p>
 <img src="https://img.shields.io/github/license/alstondu/Panda-Object-Handling?style=flat-square&color=5D6D7E" alt="GitHub license" />
 <img src="https://img.shields.io/github/last-commit/alstondu/Panda-Object-Handling?style=flat-square&color=5D6D7E" alt="git-last-commit" />
-<img src="https://img.shields.io/github/commit-activity/m/alstondu/Panda-Object-Handling?style=flat-square&color=5D6D7E" alt="GitHub commit activity" />
 <img src="https://img.shields.io/github/languages/top/alstondu/Panda-Object-Handling?style=flat-square&color=5D6D7E" alt="GitHub top language" />
-</div>
 
+</div>
+![Python Version](https://img.shields.io/badge/Python-3.10+-0080ff?logo=python)
 ---
 
 ## 📖 Table of Contents
