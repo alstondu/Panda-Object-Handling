@@ -1,0 +1,27 @@
+actions: []
+authors: ''
+brief: ''
+bugtracker: ''
+depends:
+- message_runtime
+- catkin
+- pcl_ros
+- roscpp
+- moveit_ros_planning_interface
+- pcl_conversions
+- geometry_msgs
+- panda_world_spawner
+- tf2_ros
+- message_generation
+- tf2
+- moveit_core
+- std_msgs
+description: The objective is to perform pick and place tasks in Gazebo, using MoveIt!
+  to move the robot and PCL to detect object positions and colours.
+license: MIT
+maintainers: luke <luke@todo.todo>
+msgs: []
+package_type: package
+repo_url: ''
+srvs: []
+url: ''
