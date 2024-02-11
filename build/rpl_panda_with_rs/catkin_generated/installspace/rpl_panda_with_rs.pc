@@ -1,4 +1,4 @@
-prefix=/home/alston/Automated-Object-Handling/install
+prefix=/home/alston/Panda-Object-Handling/install
 
 Name: rpl_panda_with_rs
 Description: Description of rpl_panda_with_rs

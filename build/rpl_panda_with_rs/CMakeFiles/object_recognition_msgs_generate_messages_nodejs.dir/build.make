@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/alston/Automated-Object-Handling/src/rpl_panda_with_rs
+CMAKE_SOURCE_DIR = /home/alston/Panda-Object-Handling/src/rpl_panda_with_rs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs
+CMAKE_BINARY_DIR = /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs
 
 # Utility rule file for object_recognition_msgs_generate_messages_nodejs.
 
@@ -67,6 +67,6 @@ CMakeFiles/object_recognition_msgs_generate_messages_nodejs.dir/clean:
 .PHONY : CMakeFiles/object_recognition_msgs_generate_messages_nodejs.dir/clean
 
 CMakeFiles/object_recognition_msgs_generate_messages_nodejs.dir/depend:
-	cd /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alston/Automated-Object-Handling/src/rpl_panda_with_rs /home/alston/Automated-Object-Handling/src/rpl_panda_with_rs /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs/CMakeFiles/object_recognition_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alston/Panda-Object-Handling/src/rpl_panda_with_rs /home/alston/Panda-Object-Handling/src/rpl_panda_with_rs /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs/CMakeFiles/object_recognition_msgs_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/object_recognition_msgs_generate_messages_nodejs.dir/depend
 

@@ -1,1 +1,1 @@
-/home/alston/Automated-Object-Handling/devel/.private/panda_description/lib/pkgconfig/panda_description.pc
+/home/alston/Panda-Object-Handling/devel/.private/panda_description/lib/pkgconfig/panda_description.pc

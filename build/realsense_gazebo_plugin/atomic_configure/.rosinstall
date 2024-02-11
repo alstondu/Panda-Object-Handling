@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/alston/Automated-Object-Handling/devel/.private/realsense_gazebo_plugin/setup.sh
+    local-name: /home/alston/Panda-Object-Handling/devel/.private/realsense_gazebo_plugin/setup.sh

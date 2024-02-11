@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/alston/Automated-Object-Handling/src/rpl_panda_with_rs/src/pcl_node/pcl_node.cpp" "/home/alston/Automated-Object-Handling/build/rpl_panda_with_rs/CMakeFiles/rpl_panda_with_rs.dir/src/pcl_node/pcl_node.cpp.o"
+  "/home/alston/Panda-Object-Handling/src/rpl_panda_with_rs/src/pcl_node/pcl_node.cpp" "/home/alston/Panda-Object-Handling/build/rpl_panda_with_rs/CMakeFiles/rpl_panda_with_rs.dir/src/pcl_node/pcl_node.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -18,7 +18,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/home/alston/Automated-Object-Handling/src/rpl_panda_with_rs/include"
+  "/home/alston/Panda-Object-Handling/src/rpl_panda_with_rs/include"
   "/opt/ros/noetic/include"
   "/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp"
   "/usr/include/eigen3"

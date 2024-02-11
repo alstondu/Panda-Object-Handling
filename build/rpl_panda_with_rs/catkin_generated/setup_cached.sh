@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/alston/Automated-Object-Handling/devel/.private/rpl_panda_with_rs:$CMAKE_PREFIX_PATH"
-export PWD='/home/alston/Automated-Object-Handling/build/rpl_panda_with_rs'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/alston/Automated-Object-Handling/devel/.private/rpl_panda_with_rs/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/alston/Automated-Object-Handling/src/rpl_panda_with_rs:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/alston/Panda-Object-Handling/devel/.private/rpl_panda_with_rs:$CMAKE_PREFIX_PATH"
+export PWD='/home/alston/Panda-Object-Handling/build/rpl_panda_with_rs'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/alston/Panda-Object-Handling/devel/.private/rpl_panda_with_rs/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
+export ROS_PACKAGE_PATH="/home/alston/Panda-Object-Handling/src/rpl_panda_with_rs:$ROS_PACKAGE_PATH"

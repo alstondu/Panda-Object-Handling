@@ -7,7 +7,7 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/alston/Automated-Object-Handling/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
-export PWD='/home/alston/Automated-Object-Handling/build/catkin_tools_prebuild'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/alston/Automated-Object-Handling/devel/.private/catkin_tools_prebuild/share/common-lisp'
-export ROS_PACKAGE_PATH="/home/alston/Automated-Object-Handling/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"
+export CMAKE_PREFIX_PATH="/home/alston/Panda-Object-Handling/devel/.private/catkin_tools_prebuild:$CMAKE_PREFIX_PATH"
+export PWD='/home/alston/Panda-Object-Handling/build/catkin_tools_prebuild'
+export ROSLISP_PACKAGE_DIRECTORIES='/home/alston/Panda-Object-Handling/devel/.private/catkin_tools_prebuild/share/common-lisp'
+export ROS_PACKAGE_PATH="/home/alston/Panda-Object-Handling/build/catkin_tools_prebuild:$ROS_PACKAGE_PATH"

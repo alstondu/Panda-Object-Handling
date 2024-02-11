@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/alston/Automated-Object-Handling/src/rpl_panda_with_rs/src/pcl_node/pcl_node.cpp
+/home/alston/Panda-Object-Handling/src/rpl_panda_with_rs/src/pcl_node/pcl_node.cpp
 ros/ros.h
-/home/alston/Automated-Object-Handling/src/rpl_panda_with_rs/src/pcl_node/ros/ros.h
+/home/alston/Panda-Object-Handling/src/rpl_panda_with_rs/src/pcl_node/ros/ros.h
 std_msgs/String.h
-/home/alston/Automated-Object-Handling/src/rpl_panda_with_rs/src/pcl_node/std_msgs/String.h
+/home/alston/Panda-Object-Handling/src/rpl_panda_with_rs/src/pcl_node/std_msgs/String.h
 sensor_msgs/PointCloud2.h
-/home/alston/Automated-Object-Handling/src/rpl_panda_with_rs/src/pcl_node/sensor_msgs/PointCloud2.h
+/home/alston/Panda-Object-Handling/src/rpl_panda_with_rs/src/pcl_node/sensor_msgs/PointCloud2.h
 pcl_conversions/pcl_conversions.h
 -
 pcl/point_cloud.h

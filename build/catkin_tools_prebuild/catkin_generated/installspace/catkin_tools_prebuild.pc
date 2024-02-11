@@ -1,4 +1,4 @@
-prefix=/home/alston/Automated-Object-Handling/install
+prefix=/home/alston/Panda-Object-Handling/install
 
 Name: catkin_tools_prebuild
 Description: Description of catkin_tools_prebuild

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/alston/Automated-Object-Handling/devel/.private/rpl_panda_with_rs/lib/rpl_panda_with_rs/pcl_node"
-  "/home/alston/Automated-Object-Handling/devel/.private/rpl_panda_with_rs/lib/rpl_panda_with_rs/pcl_node.pdb"
+  "/home/alston/Panda-Object-Handling/devel/.private/rpl_panda_with_rs/lib/rpl_panda_with_rs/pcl_node"
+  "/home/alston/Panda-Object-Handling/devel/.private/rpl_panda_with_rs/lib/rpl_panda_with_rs/pcl_node.pdb"
   "CMakeFiles/pcl_node.dir/src/pcl_node/pcl_node.cpp.o"
 )
 

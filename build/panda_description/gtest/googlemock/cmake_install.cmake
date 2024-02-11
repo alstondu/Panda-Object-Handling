@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/alston/Automated-Object-Handling/install")
+  set(CMAKE_INSTALL_PREFIX "/home/alston/Panda-Object-Handling/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/alston/Automated-Object-Handling/build/panda_description/gtest/googletest/cmake_install.cmake")
+  include("/home/alston/Panda-Object-Handling/build/panda_description/gtest/googletest/cmake_install.cmake")
 
 endif()
 

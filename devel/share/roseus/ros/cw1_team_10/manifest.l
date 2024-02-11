@@ -1,1 +1,0 @@
-/home/alston/Automated-Object-Handling/devel/.private/cw1_team_10/share/roseus/ros/cw1_team_10/manifest.l

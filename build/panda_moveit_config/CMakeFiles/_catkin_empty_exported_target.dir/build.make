@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/alston/Automated-Object-Handling/src/panda_moveit_config
+CMAKE_SOURCE_DIR = /home/alston/Panda-Object-Handling/src/panda_moveit_config
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/alston/Automated-Object-Handling/build/panda_moveit_config
+CMAKE_BINARY_DIR = /home/alston/Panda-Object-Handling/build/panda_moveit_config
 
 # Utility rule file for _catkin_empty_exported_target.
 
@@ -67,6 +67,6 @@ CMakeFiles/_catkin_empty_exported_target.dir/clean:
 .PHONY : CMakeFiles/_catkin_empty_exported_target.dir/clean
 
 CMakeFiles/_catkin_empty_exported_target.dir/depend:
-	cd /home/alston/Automated-Object-Handling/build/panda_moveit_config && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alston/Automated-Object-Handling/src/panda_moveit_config /home/alston/Automated-Object-Handling/src/panda_moveit_config /home/alston/Automated-Object-Handling/build/panda_moveit_config /home/alston/Automated-Object-Handling/build/panda_moveit_config /home/alston/Automated-Object-Handling/build/panda_moveit_config/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/alston/Panda-Object-Handling/build/panda_moveit_config && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alston/Panda-Object-Handling/src/panda_moveit_config /home/alston/Panda-Object-Handling/src/panda_moveit_config /home/alston/Panda-Object-Handling/build/panda_moveit_config /home/alston/Panda-Object-Handling/build/panda_moveit_config /home/alston/Panda-Object-Handling/build/panda_moveit_config/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/_catkin_empty_exported_target.dir/depend
 

@@ -1,4 +1,4 @@
-prefix=/home/alston/Automated-Object-Handling/install
+prefix=/home/alston/Panda-Object-Handling/install
 
 Name: panda_description
 Description: Description of panda_description

@@ -1,1 +1,1 @@
-/home/alston/Automated-Object-Handling/devel/.private/realsense_gazebo_plugin/lib/pkgconfig/realsense_gazebo_plugin.pc
+/home/alston/Panda-Object-Handling/devel/.private/realsense_gazebo_plugin/lib/pkgconfig/realsense_gazebo_plugin.pc

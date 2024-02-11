@@ -1,0 +1,1 @@
+/home/alston/Panda-Object-Handling/devel/.private/object_handling/share/gennodejs/ros/object_handling/_index.js

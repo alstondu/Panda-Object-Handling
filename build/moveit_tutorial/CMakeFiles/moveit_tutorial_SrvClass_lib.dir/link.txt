@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libmoveit_tutorial_SrvClass_lib.so -o /home/alston/Automated-Object-Handling/devel/.private/moveit_tutorial/lib/libmoveit_tutorial_SrvClass_lib.so CMakeFiles/moveit_tutorial_SrvClass_lib.dir/src/moveit_tutorial.cpp.o 

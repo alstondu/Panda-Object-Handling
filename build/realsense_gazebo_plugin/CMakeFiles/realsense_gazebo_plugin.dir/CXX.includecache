@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/alston/Automated-Object-Handling/src/realsense_gazebo_plugin/include/realsense_gazebo_plugin/RealSensePlugin.h
+/home/alston/Panda-Object-Handling/src/realsense_gazebo_plugin/include/realsense_gazebo_plugin/RealSensePlugin.h
 gazebo/common/Plugin.hh
 -
 gazebo/common/common.hh
@@ -26,9 +26,9 @@ string
 memory
 -
 
-/home/alston/Automated-Object-Handling/src/realsense_gazebo_plugin/include/realsense_gazebo_plugin/gazebo_ros_realsense.h
+/home/alston/Panda-Object-Handling/src/realsense_gazebo_plugin/include/realsense_gazebo_plugin/gazebo_ros_realsense.h
 realsense_gazebo_plugin/RealSensePlugin.h
-/home/alston/Automated-Object-Handling/src/realsense_gazebo_plugin/include/realsense_gazebo_plugin/realsense_gazebo_plugin/RealSensePlugin.h
+/home/alston/Panda-Object-Handling/src/realsense_gazebo_plugin/include/realsense_gazebo_plugin/realsense_gazebo_plugin/RealSensePlugin.h
 ros/ros.h
 -
 sensor_msgs/CameraInfo.h
@@ -46,9 +46,9 @@ string
 memory
 -
 
-/home/alston/Automated-Object-Handling/src/realsense_gazebo_plugin/src/RealSensePlugin.cpp
+/home/alston/Panda-Object-Handling/src/realsense_gazebo_plugin/src/RealSensePlugin.cpp
 realsense_gazebo_plugin/RealSensePlugin.h
-/home/alston/Automated-Object-Handling/src/realsense_gazebo_plugin/src/realsense_gazebo_plugin/RealSensePlugin.h
+/home/alston/Panda-Object-Handling/src/realsense_gazebo_plugin/src/realsense_gazebo_plugin/RealSensePlugin.h
 gazebo/physics/physics.hh
 -
 gazebo/rendering/DepthCamera.hh
@@ -56,9 +56,9 @@ gazebo/rendering/DepthCamera.hh
 gazebo/sensors/sensors.hh
 -
 
-/home/alston/Automated-Object-Handling/src/realsense_gazebo_plugin/src/gazebo_ros_realsense.cpp
+/home/alston/Panda-Object-Handling/src/realsense_gazebo_plugin/src/gazebo_ros_realsense.cpp
 realsense_gazebo_plugin/gazebo_ros_realsense.h
-/home/alston/Automated-Object-Handling/src/realsense_gazebo_plugin/src/realsense_gazebo_plugin/gazebo_ros_realsense.h
+/home/alston/Panda-Object-Handling/src/realsense_gazebo_plugin/src/realsense_gazebo_plugin/gazebo_ros_realsense.h
 sensor_msgs/fill_image.h
 -
 

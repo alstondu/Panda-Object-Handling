@@ -1,0 +1,1 @@
+/home/alston/Panda-Object-Handling/devel/.private/panda_world_spawner/share/common-lisp/ros/panda_world_spawner/srv/Task2Service.lisp

@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/alston/Automated-Object-Handling/src/rpl_panda_with_rs
+CMAKE_SOURCE_DIR = /home/alston/Panda-Object-Handling/src/rpl_panda_with_rs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs
+CMAKE_BINARY_DIR = /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs
 
 # Utility rule file for actionlib_generate_messages_lisp.
 
@@ -67,6 +67,6 @@ CMakeFiles/actionlib_generate_messages_lisp.dir/clean:
 .PHONY : CMakeFiles/actionlib_generate_messages_lisp.dir/clean
 
 CMakeFiles/actionlib_generate_messages_lisp.dir/depend:
-	cd /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alston/Automated-Object-Handling/src/rpl_panda_with_rs /home/alston/Automated-Object-Handling/src/rpl_panda_with_rs /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs/CMakeFiles/actionlib_generate_messages_lisp.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alston/Panda-Object-Handling/src/rpl_panda_with_rs /home/alston/Panda-Object-Handling/src/rpl_panda_with_rs /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs/CMakeFiles/actionlib_generate_messages_lisp.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/actionlib_generate_messages_lisp.dir/depend
 

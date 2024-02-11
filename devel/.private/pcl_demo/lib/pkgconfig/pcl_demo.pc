@@ -1,8 +1,0 @@
-prefix=/home/alston/Automated-Object-Handling/devel/.private/pcl_demo
-
-Name: pcl_demo
-Description: Description of pcl_demo
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: pcl_conversions pcl_ros roscpp sensor_msgs std_msgs

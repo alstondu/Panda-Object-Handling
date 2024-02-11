@@ -1,0 +1,1 @@
+/home/alston/Panda-Object-Handling/devel/.private/object_handling/share/roseus/ros/object_handling/manifest.l

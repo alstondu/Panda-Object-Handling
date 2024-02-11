@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -O3 -DNDEBUG   -shared -Wl,-soname,libobject_handling_object_handling_class_lib.so -o /home/alston/Panda-Object-Handling/devel/.private/object_handling/lib/libobject_handling_object_handling_class_lib.so CMakeFiles/object_handling_object_handling_class_lib.dir/src/object_handling_class.cpp.o 

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/home/alston/Automated-Object-Handling/devel/.private/realsense_gazebo_plugin/lib/librealsense_gazebo_plugin.pdb"
-  "/home/alston/Automated-Object-Handling/devel/.private/realsense_gazebo_plugin/lib/librealsense_gazebo_plugin.so"
+  "/home/alston/Panda-Object-Handling/devel/.private/realsense_gazebo_plugin/lib/librealsense_gazebo_plugin.pdb"
+  "/home/alston/Panda-Object-Handling/devel/.private/realsense_gazebo_plugin/lib/librealsense_gazebo_plugin.so"
   "CMakeFiles/realsense_gazebo_plugin.dir/src/RealSensePlugin.cpp.o"
   "CMakeFiles/realsense_gazebo_plugin.dir/src/gazebo_ros_realsense.cpp.o"
 )

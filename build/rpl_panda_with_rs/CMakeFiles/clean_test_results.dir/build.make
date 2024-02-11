@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/alston/Automated-Object-Handling/src/rpl_panda_with_rs
+CMAKE_SOURCE_DIR = /home/alston/Panda-Object-Handling/src/rpl_panda_with_rs
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs
+CMAKE_BINARY_DIR = /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs
 
 # Utility rule file for clean_test_results.
 
@@ -54,7 +54,7 @@ CMAKE_BINARY_DIR = /home/alston/Automated-Object-Handling/build/rpl_panda_with_r
 include CMakeFiles/clean_test_results.dir/progress.make
 
 CMakeFiles/clean_test_results:
-	/usr/bin/python3 /opt/ros/noetic/share/catkin/cmake/test/remove_test_results.py /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs/test_results
+	/usr/bin/python3 /opt/ros/noetic/share/catkin/cmake/test/remove_test_results.py /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs/test_results
 
 clean_test_results: CMakeFiles/clean_test_results
 clean_test_results: CMakeFiles/clean_test_results.dir/build.make
@@ -71,6 +71,6 @@ CMakeFiles/clean_test_results.dir/clean:
 .PHONY : CMakeFiles/clean_test_results.dir/clean
 
 CMakeFiles/clean_test_results.dir/depend:
-	cd /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alston/Automated-Object-Handling/src/rpl_panda_with_rs /home/alston/Automated-Object-Handling/src/rpl_panda_with_rs /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs /home/alston/Automated-Object-Handling/build/rpl_panda_with_rs/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alston/Panda-Object-Handling/src/rpl_panda_with_rs /home/alston/Panda-Object-Handling/src/rpl_panda_with_rs /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs /home/alston/Panda-Object-Handling/build/rpl_panda_with_rs/CMakeFiles/clean_test_results.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/clean_test_results.dir/depend
 

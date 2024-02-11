@@ -1,4 +1,4 @@
-prefix=/home/alston/Automated-Object-Handling/install
+prefix=/home/alston/Panda-Object-Handling/install
 
 Name: realsense_gazebo_plugin
 Description: Description of realsense_gazebo_plugin

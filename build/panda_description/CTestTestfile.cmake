@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/alston/Automated-Object-Handling/src/panda_description
-# Build directory: /home/alston/Automated-Object-Handling/build/panda_description
+# Source directory: /home/alston/Panda-Object-Handling/src/panda_description
+# Build directory: /home/alston/Panda-Object-Handling/build/panda_description
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

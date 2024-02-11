@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/alston/Automated-Object-Handling/src/realsense_gazebo_plugin
+CMAKE_SOURCE_DIR = /home/alston/Panda-Object-Handling/src/realsense_gazebo_plugin
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/alston/Automated-Object-Handling/build/realsense_gazebo_plugin
+CMAKE_BINARY_DIR = /home/alston/Panda-Object-Handling/build/realsense_gazebo_plugin
 
 # Utility rule file for tf_generate_messages_nodejs.
 
@@ -67,6 +67,6 @@ CMakeFiles/tf_generate_messages_nodejs.dir/clean:
 .PHONY : CMakeFiles/tf_generate_messages_nodejs.dir/clean
 
 CMakeFiles/tf_generate_messages_nodejs.dir/depend:
-	cd /home/alston/Automated-Object-Handling/build/realsense_gazebo_plugin && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alston/Automated-Object-Handling/src/realsense_gazebo_plugin /home/alston/Automated-Object-Handling/src/realsense_gazebo_plugin /home/alston/Automated-Object-Handling/build/realsense_gazebo_plugin /home/alston/Automated-Object-Handling/build/realsense_gazebo_plugin /home/alston/Automated-Object-Handling/build/realsense_gazebo_plugin/CMakeFiles/tf_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/alston/Panda-Object-Handling/build/realsense_gazebo_plugin && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alston/Panda-Object-Handling/src/realsense_gazebo_plugin /home/alston/Panda-Object-Handling/src/realsense_gazebo_plugin /home/alston/Panda-Object-Handling/build/realsense_gazebo_plugin /home/alston/Panda-Object-Handling/build/realsense_gazebo_plugin /home/alston/Panda-Object-Handling/build/realsense_gazebo_plugin/CMakeFiles/tf_generate_messages_nodejs.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tf_generate_messages_nodejs.dir/depend
 

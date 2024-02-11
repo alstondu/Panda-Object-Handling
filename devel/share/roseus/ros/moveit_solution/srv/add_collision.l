@@ -1,1 +1,0 @@
-/home/alston/Automated-Object-Handling/devel/.private/moveit_solution/share/roseus/ros/moveit_solution/srv/add_collision.l

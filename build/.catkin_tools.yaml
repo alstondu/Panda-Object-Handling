@@ -1,6 +1,6 @@
-devel_space: /home/alston/Automated-Object-Handling/devel
+devel_space: /home/alston/Panda-Object-Handling/devel
 install: false
-install_space: /home/alston/Automated-Object-Handling/install
+install_space: /home/alston/Panda-Object-Handling/install
 profile: default
-source_space: /home/alston/Automated-Object-Handling/src
-workspace: /home/alston/Automated-Object-Handling
+source_space: /home/alston/Panda-Object-Handling/src
+workspace: /home/alston/Panda-Object-Handling

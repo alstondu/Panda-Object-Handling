@@ -1,1 +1,0 @@
-/home/alston/Automated-Object-Handling/devel/.private/cw1_world_spawner/lib/pkgconfig/cw1_world_spawner.pc

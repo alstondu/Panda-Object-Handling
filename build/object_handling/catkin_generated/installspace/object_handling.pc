@@ -1,0 +1,8 @@
+prefix=/home/alston/Panda-Object-Handling/install
+
+Name: object_handling
+Description: Description of object_handling
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime panda_world_spawner

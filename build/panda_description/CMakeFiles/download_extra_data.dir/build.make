@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/alston/Automated-Object-Handling/src/panda_description
+CMAKE_SOURCE_DIR = /home/alston/Panda-Object-Handling/src/panda_description
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/alston/Automated-Object-Handling/build/panda_description
+CMAKE_BINARY_DIR = /home/alston/Panda-Object-Handling/build/panda_description
 
 # Utility rule file for download_extra_data.
 
@@ -67,6 +67,6 @@ CMakeFiles/download_extra_data.dir/clean:
 .PHONY : CMakeFiles/download_extra_data.dir/clean
 
 CMakeFiles/download_extra_data.dir/depend:
-	cd /home/alston/Automated-Object-Handling/build/panda_description && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alston/Automated-Object-Handling/src/panda_description /home/alston/Automated-Object-Handling/src/panda_description /home/alston/Automated-Object-Handling/build/panda_description /home/alston/Automated-Object-Handling/build/panda_description /home/alston/Automated-Object-Handling/build/panda_description/CMakeFiles/download_extra_data.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/alston/Panda-Object-Handling/build/panda_description && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/alston/Panda-Object-Handling/src/panda_description /home/alston/Panda-Object-Handling/src/panda_description /home/alston/Panda-Object-Handling/build/panda_description /home/alston/Panda-Object-Handling/build/panda_description /home/alston/Panda-Object-Handling/build/panda_description/CMakeFiles/download_extra_data.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/download_extra_data.dir/depend
 

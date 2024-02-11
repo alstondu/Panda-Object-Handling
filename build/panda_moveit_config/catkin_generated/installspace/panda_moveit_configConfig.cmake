@@ -67,14 +67,14 @@ set(panda_moveit_config_CONFIG_INCLUDED TRUE)
 
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
-  set(panda_moveit_config_SOURCE_PREFIX /home/alston/Automated-Object-Handling/src/panda_moveit_config)
-  set(panda_moveit_config_DEVEL_PREFIX /home/alston/Automated-Object-Handling/devel/.private/panda_moveit_config)
+  set(panda_moveit_config_SOURCE_PREFIX /home/alston/Panda-Object-Handling/src/panda_moveit_config)
+  set(panda_moveit_config_DEVEL_PREFIX /home/alston/Panda-Object-Handling/devel/.private/panda_moveit_config)
   set(panda_moveit_config_INSTALL_PREFIX "")
   set(panda_moveit_config_PREFIX ${panda_moveit_config_DEVEL_PREFIX})
 else()
   set(panda_moveit_config_SOURCE_PREFIX "")
   set(panda_moveit_config_DEVEL_PREFIX "")
-  set(panda_moveit_config_INSTALL_PREFIX /home/alston/Automated-Object-Handling/install)
+  set(panda_moveit_config_INSTALL_PREFIX /home/alston/Panda-Object-Handling/install)
   set(panda_moveit_config_PREFIX ${panda_moveit_config_INSTALL_PREFIX})
 endif()
 
@@ -154,7 +154,7 @@ foreach(library ${libraries})
     set(lib_path "")
     set(lib "${library}-NOTFOUND")
     # since the path where the library is found is returned we have to iterate over the paths manually
-    foreach(path /home/alston/Automated-Object-Handling/install/lib;/home/alston/Automated-Object-Handling/devel/lib;/opt/ros/noetic/lib)
+    foreach(path /home/alston/Panda-Object-Handling/install/lib;/home/alston/Panda-Object-Handling/devel/lib;/opt/ros/noetic/lib)
       find_library(lib ${library}
         PATHS ${path}
         NO_DEFAULT_PATH NO_CMAKE_FIND_ROOT_PATH)

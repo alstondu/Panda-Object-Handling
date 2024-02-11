@@ -1,0 +1,1 @@
+/home/alston/Panda-Object-Handling/devel/.private/object_handling/share/common-lisp/ros/object_handling/srv/_package_example.lisp
