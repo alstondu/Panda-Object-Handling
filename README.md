@@ -1,4 +1,16 @@
-# Panda-Object-Handling
+<div align="left">
+<h1 align="left">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
+<br>PANDA-OBJECT-HANDLING</h1>
+
+<p align="left">
+    
+![python 10.5%](https://img.shields.io/badge/python-10.5%25-blue?style=flat-square)
+![C++ 6.2%](https://img.shields.io/badge/C++-6.2%25-blue?style=flat-square)
+![Languages Count](https://img.shields.io/github/languages/count/alstondu/Panda-Object-Handling?style=flat-square)
+
+</p>
+<img src="https://img.shields.io/github/license/alstondu/Panda-Object-Handling?style=flat-square&color=5D6D7E" alt="GitHub license" />
 
 The objective is to perform pick and place tasks in Gazebo, using MoveIt!
 to move the robot and PCL to detect object positions and colours.
