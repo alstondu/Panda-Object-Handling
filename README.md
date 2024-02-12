@@ -112,7 +112,6 @@ The task is to place each cube into a basket of the same colour.
 ```bash
 > git clone https://github.com/alstondu/Panda-Object-Handling.git
 > cd Panda-Object-Handling
-> catkin clean
 > catkin build
 ```
 
