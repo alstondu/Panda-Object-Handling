@@ -30,6 +30,11 @@ to move the robot and PCL to detect object positions and colours.
 
 Pick and Place, Object Detection and Localization are performed with [Franka Emika Panda](https://franka.de/).
 
+### 🚀 Tasks
++ Task1: Pick up one cube and place it in the basket without collision.
++ Task2: Report the colour of randomly generated baskets at each given location or if any locations are empty.
++ Task3: Place each cube into a basket of the same colour
+
 ---
 ## 📂 Repository Structure
 
@@ -70,7 +75,7 @@ Pick and Place, Object Detection and Localization are performed with [Franka Emi
     │       │   ├── Task2Service.srv
     │       │   ├── Task3Service.srv
     │       │   └──TaskSetup.srv
-    │       └── setup.py│
+    │       └── setup.py
     ├── LICENSE.txt
     ├── README.md
     └── .catkin_tools/
