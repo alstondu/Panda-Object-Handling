@@ -39,7 +39,7 @@ Pick and Place, Object Detection and Localization are performed with [Franka Emi
 ## 📂 Repository Structure
 
 ```sh
-└── Panda-Object-Handling/
+└── Panda-PaP/
     ├── build/
     ├── devel/
     ├── doc/
@@ -110,8 +110,8 @@ The task is to place each cube into a basket of the same colour.
 ---
 ## ⚙️ Installation
 ```bash
-> git clone https://github.com/alstondu/Panda-Object-Handling.git
-> cd Panda-Object-Handling
+> git clone https://github.com/alstondu/Panda-PaP.git
+> cd Panda-PaP
 > catkin build
 ```
 
@@ -119,7 +119,7 @@ The task is to place each cube into a basket of the same colour.
 # ► Running
 The workspace needs to be sourced in each new terminal:
 ```bash
-> source /PATH/TO/Panda-Object-Handling/devel/setup.bash
+> source /PATH/TO/Panda-PaP/devel/setup.bash
 ```
 <br>
 
